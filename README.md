@@ -6,7 +6,7 @@
 
 ## :man_technologist: A little bit about myself
 
-My name is **Muhammed Adeyemi Adedigba**, you can call me **Moe**. I'm an engineering professional with a passion for computational mechanics, finite element analysis, and building innovative software solutions for enhancing engineering simulations.
+I am **Muhammed Adedigba**, you can simply call me Moe. I'm an engineering professional with a passion for computational mechanics, finite element analysis, and building innovative software solutions for enhancing engineering simulations.
 
 I hold a Joint Master's degree in Advanced Solid Mechanics and a Bachelor's degree in Civil Engineering (Structural Engineering).
 
