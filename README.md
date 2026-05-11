@@ -60,5 +60,5 @@ Check out my personal website for more information about me: [moe-ad.github.io](
 ## :octocat: GitHub statistics
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=moe-ad&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=moe-ad&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
 </div>
